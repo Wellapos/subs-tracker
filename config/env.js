@@ -11,7 +11,7 @@ export const {
   JWT_SECRET,
   JWT_EXPIRATION,
   ARCJET_KEY,
-  ARCJET_ENV,
-  QSTASH_URL,
-  QSTASH_TOKEN
+  ARCJET_ENV
+  // QSTASH_URL,
+  // QSTASH_TOKEN
 } = process.env
